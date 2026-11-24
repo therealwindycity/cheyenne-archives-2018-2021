@@ -38,6 +38,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Work_Session_--_American_Rescue_Plan_ARP_Infrastructure_Water_Sewer_Broadband_Projects": {
+      "identifier": "cochwy-Work_Session_--_American_Rescue_Plan_ARP_Infrastructure_Water_Sewer_Broadband_Projects",
+      "date": "2021-11-05",
+      "title": "Work Session -- American Rescue Plan (ARP) Infrastructure, Water, Sewer, & Broadband Projects",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-11-05-nd_Projects",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-11-05-nd_Projects",
+      "index_path": "speaker-videos/2021-11-05_Work_Session_--_American_Rescue_Plan_ARP_Infrastr/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-11-05_Work_Session_--_American_Rescue_Plan_ARP_Infrastr/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
