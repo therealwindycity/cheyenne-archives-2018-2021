@@ -51,6 +51,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Work_Session_--_American_Rescue_Plan_ARP_Public_Health_Negative_Economic_Impact_Projects": {
+      "identifier": "cochwy-Work_Session_--_American_Rescue_Plan_ARP_Public_Health_Negative_Economic_Impact_Projects",
+      "date": "2021-10-29",
+      "title": "Work Session -- American Rescue Plan (ARP) Public Health & Negative Economic Impact Projects",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-10-29-ct_Projects",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-10-29-ct_Projects",
+      "index_path": "speaker-videos/2021-10-29_Work_Session_--_American_Rescue_Plan_ARP_Public_H/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-10-29_Work_Session_--_American_Rescue_Plan_ARP_Public_H/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
