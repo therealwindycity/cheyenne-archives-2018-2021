@@ -12,6 +12,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Work_Session_--_Climate_Wellness_Through_Soil_Health": {
+      "identifier": "cochwy-Work_Session_--_Climate_Wellness_Through_Soil_Health",
+      "date": "2021-11-19",
+      "title": "Work Session -- Climate Wellness Through Soil Health",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-11-19-Soil_Health",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-11-19-Soil_Health",
+      "index_path": "speaker-videos/2021-11-19_Work_Session_--_Climate_Wellness_Through_Soil_Hea/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-11-19_Work_Session_--_Climate_Wellness_Through_Soil_Hea/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
