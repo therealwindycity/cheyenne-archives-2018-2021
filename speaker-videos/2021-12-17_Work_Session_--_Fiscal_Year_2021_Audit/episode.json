@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Work_Session_--_Fiscal_Year_2021_Audit",
+  "title": "Work Session -- Fiscal Year 2021 Audit",
+  "date": "2021-12-17",
+  "season": 10,
+  "repo": "therealwindycity/cheyenne-archives-2018-2021",
+  "release_tag": "speaker-videos-2021-12-17-_2021_Audit",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-12-17-_2021_Audit",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Work_Session_--_Fiscal_Year_2021_Audit",
+  "archive_stream_url": "https://archive.org/download/cochwy-Work_Session_--_Fiscal_Year_2021_Audit/Work_Session_--_Fiscal_Year_2021_Audit.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 131349470,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-12-17-_2021_Audit/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
