@@ -90,6 +90,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Press_Conference_for_Capitol_Ave._Bronze_Project": {
+      "identifier": "cochwy-Press_Conference_for_Capitol_Ave._Bronze_Project",
+      "date": "2021-10-04",
+      "title": "Press Conference for Capitol Ave. Bronze Project",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-10-04-nze_Project",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-10-04-nze_Project",
+      "index_path": "speaker-videos/2021-10-04_Press_Conference_for_Capitol_Ave._Bronze_Project/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-10-04_Press_Conference_for_Capitol_Ave._Bronze_Project/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
