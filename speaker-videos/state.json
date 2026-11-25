@@ -103,6 +103,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Bill_Dubois_Resolution": {
+      "identifier": "cochwy-Bill_Dubois_Resolution",
+      "date": "2021-09-28",
+      "title": "Bill Dubois Resolution",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-09-28-_Resolution",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-09-28-_Resolution",
+      "index_path": "speaker-videos/2021-09-28_Bill_Dubois_Resolution/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-09-28_Bill_Dubois_Resolution/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
