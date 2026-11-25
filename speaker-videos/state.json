@@ -142,6 +142,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-POW-MIA_Proclamation_Event": {
+      "identifier": "cochwy-POW-MIA_Proclamation_Event",
+      "date": "2021-09-17",
+      "title": "POW-MIA Proclamation Event",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-09-17-ation_Event",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-09-17-ation_Event",
+      "index_path": "speaker-videos/2021-09-17_POW-MIA_Proclamation_Event/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-09-17_POW-MIA_Proclamation_Event/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
