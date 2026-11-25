@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-POW-MIA_Proclamation_Event",
+  "title": "POW-MIA Proclamation Event",
+  "date": "2021-09-17",
+  "season": 10,
+  "repo": "therealwindycity/cheyenne-archives-2018-2021",
+  "release_tag": "speaker-videos-2021-09-17-ation_Event",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-09-17-ation_Event",
+  "archive_embed_url": "https://archive.org/embed/cochwy-POW-MIA_Proclamation_Event",
+  "archive_stream_url": "https://archive.org/download/cochwy-POW-MIA_Proclamation_Event/POW-MIA_Proclamation_Event.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 111251299,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-09-17-ation_Event/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
