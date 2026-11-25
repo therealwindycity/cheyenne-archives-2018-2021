@@ -116,6 +116,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Past_Sixth_Penny_Projects": {
+      "identifier": "cochwy-Past_Sixth_Penny_Projects",
+      "date": "2021-09-21",
+      "title": "Past Sixth Penny Projects",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-09-21-ny_Projects",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-09-21-ny_Projects",
+      "index_path": "speaker-videos/2021-09-21_Past_Sixth_Penny_Projects/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-09-21_Past_Sixth_Penny_Projects/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
