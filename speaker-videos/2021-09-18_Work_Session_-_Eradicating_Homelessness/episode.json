@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Work_Session_-_Eradicating_Homelessness",
+  "title": "Work Session - Eradicating Homelessness",
+  "date": "2021-09-18",
+  "season": 10,
+  "repo": "therealwindycity/cheyenne-archives-2018-2021",
+  "release_tag": "speaker-videos-2021-09-18-omelessness",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-09-18-omelessness",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Work_Session_-_Eradicating_Homelessness",
+  "archive_stream_url": "https://archive.org/download/cochwy-Work_Session_-_Eradicating_Homelessness/Work_Session_-_Eradicating_Homelessness.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 369921599,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-09-18-omelessness/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
