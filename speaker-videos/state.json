@@ -238,6 +238,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Atlas_D_Missile_Site_with_Melvin_Holsinger": {
+      "identifier": "cochwy-Atlas_D_Missile_Site_with_Melvin_Holsinger",
+      "date": "2021-07-01",
+      "title": "Atlas D Missile Site with Melvin Holsinger",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-07-01-n_Holsinger",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-07-01-n_Holsinger",
+      "index_path": "speaker-videos/2021-07-01_Atlas_D_Missile_Site_with_Melvin_Holsinger/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-07-01_Atlas_D_Missile_Site_with_Melvin_Holsinger/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
