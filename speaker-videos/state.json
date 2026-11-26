@@ -155,6 +155,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Hitching_Post_Plaza_press_conference": {
+      "identifier": "cochwy-Hitching_Post_Plaza_press_conference",
+      "date": "2021-09-15",
+      "title": "Hitching Post Plaza press conference",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-09-15-_conference",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-09-15-_conference",
+      "index_path": "speaker-videos/2021-09-15_Hitching_Post_Plaza_press_conference/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-09-15_Hitching_Post_Plaza_press_conference/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
