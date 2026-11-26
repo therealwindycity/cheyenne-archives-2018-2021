@@ -199,6 +199,19 @@
       "identifier": "cochwy-Belvoir_Ranch_tour",
       "status": "skipped_empty_turns",
       "date": "2021-08-09"
+    },
+    "cochwy-Finance_Committee_Meeting": {
+      "identifier": "cochwy-Finance_Committee_Meeting",
+      "date": "2021-08-02",
+      "title": "Finance Committee Meeting",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-08-02-tee_Meeting",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-08-02-tee_Meeting",
+      "index_path": "speaker-videos/2021-08-02_Finance_Committee_Meeting/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-08-02_Finance_Committee_Meeting/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
