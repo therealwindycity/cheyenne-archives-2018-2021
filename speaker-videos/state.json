@@ -181,6 +181,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Youth_Alternatives_Special_Friends_mentor_program": {
+      "identifier": "cochwy-Youth_Alternatives_Special_Friends_mentor_program",
+      "date": "2021-08-16",
+      "title": "Youth Alternatives' Special Friends mentor program",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-08-16-tor_program",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-08-16-tor_program",
+      "index_path": "speaker-videos/2021-08-16_Youth_Alternatives_Special_Friends_mentor_program/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-08-16_Youth_Alternatives_Special_Friends_mentor_program/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
