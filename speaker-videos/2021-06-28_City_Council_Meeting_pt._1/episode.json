@@ -1,0 +1,33 @@
+{
+  "identifier": "cochwy-City_Council_Meeting_pt._1",
+  "title": "City Council Meeting pt. 1",
+  "date": "2021-06-28",
+  "season": 10,
+  "repo": "therealwindycity/cheyenne-archives-2018-2021",
+  "release_tag": "speaker-videos-2021-06-28-eting_pt._1",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-06-28-eting_pt._1",
+  "archive_embed_url": "https://archive.org/embed/cochwy-City_Council_Meeting_pt._1",
+  "archive_stream_url": "https://archive.org/download/cochwy-City_Council_Meeting_pt._1/City_Council_Meeting_pt._1.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 4,
+      "size_bytes": 36475170,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-28-eting_pt._1/Speaker_01_Voice_Cluster_01_04_clips.zip"
+    },
+    {
+      "speaker": "Speaker_02_Voice_Cluster_02",
+      "clips_count": 1,
+      "size_bytes": 41428472,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-28-eting_pt._1/Speaker_02_Voice_Cluster_02_01_clips.zip"
+    },
+    {
+      "speaker": "Speaker_03_Voice_Cluster_03",
+      "clips_count": 1,
+      "size_bytes": 7421812,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-28-eting_pt._1/Speaker_03_Voice_Cluster_03_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 6
+}
