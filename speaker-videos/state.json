@@ -194,6 +194,11 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Belvoir_Ranch_tour": {
+      "identifier": "cochwy-Belvoir_Ranch_tour",
+      "status": "skipped_empty_turns",
+      "date": "2021-08-09"
     }
   }
 }
