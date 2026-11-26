@@ -1,0 +1,27 @@
+{
+  "identifier": "cochwy-Cheyenne_Frontier_Days_Parade_7_29_21",
+  "title": "Cheyenne Frontier Days Parade (7/29/21)",
+  "date": "2021-07-29",
+  "season": 10,
+  "repo": "therealwindycity/cheyenne-archives-2018-2021",
+  "release_tag": "speaker-videos-2021-07-29-ade_7_29_21",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-07-29-ade_7_29_21",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Cheyenne_Frontier_Days_Parade_7_29_21",
+  "archive_stream_url": "https://archive.org/download/cochwy-Cheyenne_Frontier_Days_Parade_7_29_21/Cheyenne_Frontier_Days_Parade_7_29_21.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_02",
+      "clips_count": 2,
+      "size_bytes": 312621407,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-07-29-ade_7_29_21/Speaker_01_Voice_Cluster_02_02_clips.zip"
+    },
+    {
+      "speaker": "Speaker_02_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 16365051,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-07-29-ade_7_29_21/Speaker_02_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 3
+}
