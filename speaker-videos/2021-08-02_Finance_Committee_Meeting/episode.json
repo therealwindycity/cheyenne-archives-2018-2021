@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Finance_Committee_Meeting",
+  "title": "Finance Committee Meeting",
+  "date": "2021-08-02",
+  "season": 10,
+  "repo": "therealwindycity/cheyenne-archives-2018-2021",
+  "release_tag": "speaker-videos-2021-08-02-tee_Meeting",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-08-02-tee_Meeting",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Finance_Committee_Meeting",
+  "archive_stream_url": "https://archive.org/download/cochwy-Finance_Committee_Meeting/Finance_Committee_Meeting.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Meeting_Chair",
+      "clips_count": 1,
+      "size_bytes": 123001988,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-08-02-tee_Meeting/Speaker_01_Meeting_Chair_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
