@@ -251,6 +251,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-City_Council_Meeting_pt._2": {
+      "identifier": "cochwy-City_Council_Meeting_pt._2",
+      "date": "2021-06-29",
+      "title": "City Council Meeting pt. 2",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-06-29-eting_pt._2",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-06-29-eting_pt._2",
+      "index_path": "speaker-videos/2021-06-29_City_Council_Meeting_pt._2/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-06-29_City_Council_Meeting_pt._2/episode.json",
+      "speakers": 10,
+      "clips": 146,
+      "status": "published"
     }
   }
 }
