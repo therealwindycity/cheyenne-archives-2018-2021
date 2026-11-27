@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Work_Session_Short_Term_Vacation_Rentals",
+  "title": "Work Session \u2013 Short Term Vacation Rentals",
+  "date": "2021-06-18",
+  "season": 10,
+  "repo": "therealwindycity/cheyenne-archives-2018-2021",
+  "release_tag": "speaker-videos-2021-06-18-ion_Rentals",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-06-18-ion_Rentals",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Work_Session_Short_Term_Vacation_Rentals",
+  "archive_stream_url": "https://archive.org/download/cochwy-Work_Session_Short_Term_Vacation_Rentals/Work_Session_Short_Term_Vacation_Rentals.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 186819028,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-18-ion_Rentals/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
