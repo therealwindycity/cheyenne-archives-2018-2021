@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 130.72,
     "end": 1330.83,
     "hms": "00h02m11s-00h22m11s",
     "file_name": "Speaker_01_Meeting_Chair_turn01_global001_00h02m11s-00h22m11s.mp4",
-    "text_preview": "finance committee uh if you please both public and staff mutual devices unless you speak to speak on an item uh public comment please if available use the and staff to clearly identify themselves for staff reports and pu"
+    "text_preview": "finance committee uh if you please both public and staff mutual devices unless you speak to speak on an item uh public comment please if available use the and staff to clearly identify themselves for staff reports and pu",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   }
 ]
