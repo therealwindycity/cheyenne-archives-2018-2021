@@ -1,0 +1,51 @@
+{
+  "identifier": "cochwy-Committee_of_the_Whole_June_9_at_6pm",
+  "title": "Committee of the Whole (June 9 at 6pm)",
+  "date": "2021-06-10",
+  "season": 10,
+  "repo": "therealwindycity/cheyenne-archives-2018-2021",
+  "release_tag": "speaker-videos-2021-06-10-ne_9_at_6pm",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-06-10-ne_9_at_6pm",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Committee_of_the_Whole_June_9_at_6pm",
+  "archive_stream_url": "https://archive.org/download/cochwy-Committee_of_the_Whole_June_9_at_6pm/Committee_of_the_Whole_June_9_at_6pm.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 8,
+      "size_bytes": 26385775,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-10-ne_9_at_6pm/Speaker_01_Voice_Cluster_01_08_clips.zip"
+    },
+    {
+      "speaker": "Speaker_02_Voice_Cluster_04",
+      "clips_count": 3,
+      "size_bytes": 12197299,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-10-ne_9_at_6pm/Speaker_02_Voice_Cluster_04_03_clips.zip"
+    },
+    {
+      "speaker": "Speaker_03_Voice_Cluster_02",
+      "clips_count": 7,
+      "size_bytes": 9250289,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-10-ne_9_at_6pm/Speaker_03_Voice_Cluster_02_07_clips.zip"
+    },
+    {
+      "speaker": "Speaker_04_Voice_Cluster_05",
+      "clips_count": 7,
+      "size_bytes": 40451209,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-10-ne_9_at_6pm/Speaker_04_Voice_Cluster_05_07_clips.zip"
+    },
+    {
+      "speaker": "Speaker_05_Voice_Cluster_03",
+      "clips_count": 4,
+      "size_bytes": 13991072,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-10-ne_9_at_6pm/Speaker_05_Voice_Cluster_03_04_clips.zip"
+    },
+    {
+      "speaker": "Speaker_06_Voice_Cluster_06",
+      "clips_count": 4,
+      "size_bytes": 16655512,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-10-ne_9_at_6pm/Speaker_06_Voice_Cluster_06_04_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 33
+}
