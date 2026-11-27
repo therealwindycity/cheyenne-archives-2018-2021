@@ -303,6 +303,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Work_Session_Short_Term_Vacation_Rentals": {
+      "identifier": "cochwy-Work_Session_Short_Term_Vacation_Rentals",
+      "date": "2021-06-18",
+      "title": "Work Session \u2013 Short Term Vacation Rentals",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-06-18-ion_Rentals",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-06-18-ion_Rentals",
+      "index_path": "speaker-videos/2021-06-18_Work_Session_Short_Term_Vacation_Rentals/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-06-18_Work_Session_Short_Term_Vacation_Rentals/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
