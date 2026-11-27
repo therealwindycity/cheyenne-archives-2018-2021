@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-East_Park_Community_Open_Space",
+  "title": "East Park Community Open Space",
+  "date": "2021-06-24",
+  "season": 10,
+  "repo": "therealwindycity/cheyenne-archives-2018-2021",
+  "release_tag": "speaker-videos-2021-06-24-_Open_Space",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-06-24-_Open_Space",
+  "archive_embed_url": "https://archive.org/embed/cochwy-East_Park_Community_Open_Space",
+  "archive_stream_url": "https://archive.org/download/cochwy-East_Park_Community_Open_Space/East_Park_Community_Open_Space.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 2802411,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-24-_Open_Space/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
