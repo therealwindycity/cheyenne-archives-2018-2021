@@ -342,6 +342,19 @@
       "speakers": 6,
       "clips": 33,
       "status": "published"
+    },
+    "cochwy-Capitol_North_Public_Meeting_5_25_21": {
+      "identifier": "cochwy-Capitol_North_Public_Meeting_5_25_21",
+      "date": "2021-06-01",
+      "title": "Capitol North Public Meeting (5/25/21)",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-06-01-ing_5_25_21",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-06-01-ing_5_25_21",
+      "index_path": "speaker-videos/2021-06-01_Capitol_North_Public_Meeting_5_25_21/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-06-01_Capitol_North_Public_Meeting_5_25_21/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
