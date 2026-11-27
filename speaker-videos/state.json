@@ -316,6 +316,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Sanitation_route_with_Kenny_Alvarado_and_Mayor_Patrick_Collins": {
+      "identifier": "cochwy-Sanitation_route_with_Kenny_Alvarado_and_Mayor_Patrick_Collins",
+      "date": "2021-06-16",
+      "title": "Sanitation route with Kenny Alvarado and Mayor Patrick Collins",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-06-16-ick_Collins",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-06-16-ick_Collins",
+      "index_path": "speaker-videos/2021-06-16_Sanitation_route_with_Kenny_Alvarado_and_Mayor_Pa/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-06-16_Sanitation_route_with_Kenny_Alvarado_and_Mayor_Pa/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
