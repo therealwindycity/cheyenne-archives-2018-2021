@@ -329,6 +329,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Committee_of_the_Whole_June_9_at_6pm": {
+      "identifier": "cochwy-Committee_of_the_Whole_June_9_at_6pm",
+      "date": "2021-06-10",
+      "title": "Committee of the Whole (June 9 at 6pm)",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-06-10-ne_9_at_6pm",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-06-10-ne_9_at_6pm",
+      "index_path": "speaker-videos/2021-06-10_Committee_of_the_Whole_June_9_at_6pm/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-06-10_Committee_of_the_Whole_June_9_at_6pm/episode.json",
+      "speakers": 6,
+      "clips": 33,
+      "status": "published"
     }
   }
 }
