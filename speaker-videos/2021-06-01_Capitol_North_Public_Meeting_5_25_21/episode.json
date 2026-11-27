@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Capitol_North_Public_Meeting_5_25_21",
+  "title": "Capitol North Public Meeting (5/25/21)",
+  "date": "2021-06-01",
+  "season": 10,
+  "repo": "therealwindycity/cheyenne-archives-2018-2021",
+  "release_tag": "speaker-videos-2021-06-01-ing_5_25_21",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-06-01-ing_5_25_21",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Capitol_North_Public_Meeting_5_25_21",
+  "archive_stream_url": "https://archive.org/download/cochwy-Capitol_North_Public_Meeting_5_25_21/Capitol_North_Public_Meeting_5_25_21.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Meeting_Chair",
+      "clips_count": 1,
+      "size_bytes": 91815129,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-01-ing_5_25_21/Speaker_01_Meeting_Chair_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
