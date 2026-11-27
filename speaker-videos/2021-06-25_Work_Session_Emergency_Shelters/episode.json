@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Work_Session_Emergency_Shelters",
+  "title": "Work Session \u2013 Emergency Shelters",
+  "date": "2021-06-25",
+  "season": 10,
+  "repo": "therealwindycity/cheyenne-archives-2018-2021",
+  "release_tag": "speaker-videos-2021-06-25-cy_Shelters",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-06-25-cy_Shelters",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Work_Session_Emergency_Shelters",
+  "archive_stream_url": "https://archive.org/download/cochwy-Work_Session_Emergency_Shelters/Work_Session_Emergency_Shelters.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 273250230,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/download/speaker-videos-2021-06-25-cy_Shelters/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
