@@ -420,6 +420,11 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Budget_Work_Session_-_Cheyenne_Fire_Rescue_Cheyenne_Police_Department": {
+      "identifier": "cochwy-Budget_Work_Session_-_Cheyenne_Fire_Rescue_Cheyenne_Police_Department",
+      "status": "skipped_no_video",
+      "date": "2021-05-14"
     }
   }
 }
