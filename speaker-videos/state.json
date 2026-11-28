@@ -381,6 +381,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-2020-21_Mayor_s_Youth_Council_Appreciation_Ceremony": {
+      "identifier": "cochwy-2020-21_Mayor_s_Youth_Council_Appreciation_Ceremony",
+      "date": "2021-05-25",
+      "title": "2020-21 Mayor's Youth Council Appreciation Ceremony",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-05-25-on_Ceremony",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-05-25-on_Ceremony",
+      "index_path": "speaker-videos/2021-05-25_2020-21_Mayor_s_Youth_Council_Appreciation_Ceremo/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-05-25_2020-21_Mayor_s_Youth_Council_Appreciation_Ceremo/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
