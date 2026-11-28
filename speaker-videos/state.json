@@ -425,6 +425,19 @@
       "identifier": "cochwy-Budget_Work_Session_-_Cheyenne_Fire_Rescue_Cheyenne_Police_Department",
       "status": "skipped_no_video",
       "date": "2021-05-14"
+    },
+    "cochwy-Budget_Work_Session_-_Community_Recreation_and_Events": {
+      "identifier": "cochwy-Budget_Work_Session_-_Community_Recreation_and_Events",
+      "date": "2021-05-13",
+      "title": "Budget Work Session - Community Recreation and Events",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-05-13-_and_Events",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-05-13-_and_Events",
+      "index_path": "speaker-videos/2021-05-13_Budget_Work_Session_-_Community_Recreation_and_Ev/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-05-13_Budget_Work_Session_-_Community_Recreation_and_Ev/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
