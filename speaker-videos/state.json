@@ -407,6 +407,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-2021_BOPU_Infrastructure": {
+      "identifier": "cochwy-2021_BOPU_Infrastructure",
+      "date": "2021-05-21",
+      "title": "2021 BOPU Infrastructure",
+      "repo": "therealwindycity/cheyenne-archives-2018-2021",
+      "release_tag": "speaker-videos-2021-05-21-rastructure",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2018-2021/releases/tag/speaker-videos-2021-05-21-rastructure",
+      "index_path": "speaker-videos/2021-05-21_2021_BOPU_Infrastructure/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2021-05-21_2021_BOPU_Infrastructure/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
